@@ -73,6 +73,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Talk To YouTube Video](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) - I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
 
 ## Writing
+* [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer) - Bring GPT Writing Skills to the Next Level with 23 dynamic commands to tailor your writing.
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
 * [Academic Paper Creator](https://chat.openai.com/g/g-DzTFVQytf-academic-paper-creator) - LaTeX paper writing assistant and PDF formatter.
 * [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - Screenwriting Guide with Screenplay Examples.
